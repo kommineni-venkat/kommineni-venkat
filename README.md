@@ -1,23 +1,23 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif" alt="Header Image" />
+  <img src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif" alt="Header Image" width="600" height="300" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Venkat Kommineni</h1>
 <h3 align="center">A passionate Frontend Developer and Enthusiastic in Data science</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kommineni-venkat&label=Profile%20views&color=0e75b6&style=flat" alt="kommineni-venkat" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kommineni-venkat&label=Profile%20views&color=0e75b6&style=flat" alt="kommineni-venkat" />
 </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
+  </a>
 </p>
 
 - 🔭 I’m currently working on **CRM**
 - 🌱 I’m currently learning **MERN, Data Analysis**
-- 📫 How to reach me **[jaikommineni143@gmail.com](mailto:jaikommineni143@gmail.com)**
+- 📫 How to reach me **jaikommineni143@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
