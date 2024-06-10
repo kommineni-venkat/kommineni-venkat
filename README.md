@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning **MERN , Data Analysis**
 
 - 📫 How to reach me **jaikommineni143@gmail.com**
+- 📫 How to reach me **https://kommineni-venkat.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
