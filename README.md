@@ -1,4 +1,7 @@
-<img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" alt="Header Image" width="200px" />
+<div style="image-align: center;">
+  <img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" alt="Header Image" width="200px" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Venkat Kommineni</h1>
 <h3 align="center">A passionate Frontend Developer and Enthusiast in Data Science</h3>
