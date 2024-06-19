@@ -1,7 +1,4 @@
-<div style="text-align: center; display: inline-block; width: 200px;">
-  <img src="https://camo.githubusercontent.com/1d42d8178614ebf9d0895fab87d7c46f3a91c134c575f026b8e1eba0c6167c75/68747470733a2f2f7777772e6976656e7472612e636f6d2f6173736574732f696d616765732f62672f6261636b2d656e642d646576656c6f7065722e676966" alt="Header Image" width="200px" />
-</div>
-
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
 <h1 align="center">Hi 👋, I'm Venkat Kommineni</h1>
