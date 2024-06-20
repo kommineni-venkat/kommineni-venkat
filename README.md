@@ -34,11 +34,9 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **Java, Python, and NodeJS**
+- 💬 Ask me about **MERN, Python, and Data Science**
 
 - 📫 How to reach me **jaikommineni143@gmail.com**
-
-- 📄 Know about my experiences
 
 - ⚡ Fun fact **I think I'm funny**
 
