@@ -27,8 +27,8 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **MERN**
-- 🌱 I’m currently learning **DevOps and Data Analysis**
+- 🔭 I’m currently working on ****
+- 🌱 I’m currently learning **data science and computational intelligence**
 - 👨‍💻 All of my projects are available at [My Projects](#)
 - 💬 Ask me about **MERN, Python, and Data Science**
 - 📫 How to reach me: **jaikommineni143@gmail.com**
