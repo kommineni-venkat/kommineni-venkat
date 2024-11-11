@@ -27,10 +27,10 @@
 
 <br><br>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **SQL and POWERBI**
 - 🌱 I’m currently learning **data science and computational intelligence**
 - 👨‍💻 All of my projects are available at [My Projects](#)
-- 💬 Ask me about **MERN, Python, and Data Science**
+- 💬 Ask me about **SQL Python, and Data Science**
 - 📫 How to reach me: **jaikommineni143@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
