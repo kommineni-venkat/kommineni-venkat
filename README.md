@@ -45,6 +45,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kommineni-venkat&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kommineni-venkat&" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kommineni-venkat&" alt="GitHub Streak">
+</p>
 
 Thank you for reading all the way to the bottom, here is a silk for you 🍫🍫
